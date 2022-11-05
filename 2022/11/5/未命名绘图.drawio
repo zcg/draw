@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T03:02:12.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="9OxxplZ6IaVqlZjXsqeh" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T03:03:36.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="G1s72V5CDvRfkp77Tx_7" version="20.5.2" type="github">
   <diagram id="NzIb-Y7p94174DJUt4TS" name="第 1 页">
-    <mxGraphModel dx="1156" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1682" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,6 +166,9 @@
         </mxCell>
         <mxCell id="VlN0MJ89UIbP00VgBq9Y-64" value="一个具备各种属性和功能并把这些的一部分或全部组合成各种标签,并且具备生命周期的现实事物的计算机中的抽象对应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1030" width="390" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VlN0MJ89UIbP00VgBq9Y-65" value="基础&lt;br&gt;前端后端一个都跑不掉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
